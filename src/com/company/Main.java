@@ -11,7 +11,7 @@ public class Main {
         System.out.println("asd");
 
         hash.put(1,1);
-
+        
         System.out.print(hash.keySet().toArray()[0]);
 
     }
